@@ -1,0 +1,5 @@
+1 nhúng file này vào layout -> index nhúng vào dưới cùng và chú ý sửa lại đường dẫn của nó
+<script type="text/javascript" language="javascript" src="ckeditor/ckeditor.js" ></script>
+
+1 : trong phần text ở view cần thêm cái id="demo" và class ckeditor cho nó
+<textarea id="demo" class="ckeditor"></textarea>

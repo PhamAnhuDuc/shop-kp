@@ -1,0 +1,1 @@
+<h1>Đây là trang giao diện gửi mail {{$hoten}} va {{$tinnhan}}</h1>
